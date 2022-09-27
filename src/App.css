@@ -1,0 +1,17 @@
+.container{
+  margin: 150px;
+  text-align: center;
+}
+main-container{
+  place-items: center center; 
+}
+.tapha{
+  margin:25px;
+}
+.position: :focus{
+  z-index: 5;
+
+}
+.d-grid{
+  background-color: blue;
+}
